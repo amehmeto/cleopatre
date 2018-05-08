@@ -6,7 +6,7 @@
 #    By: amehmeto <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/05/08 03:51:25 by amehmeto          #+#    #+#              #
-#    Updated: 2018/05/08 05:18:08 by amehmeto         ###   ########.fr        #
+#    Updated: 2018/05/08 05:29:06 by amehmeto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -50,6 +50,16 @@ button {
 .alt {
 	background-color: transparent;
 	color: #CF1E1E;
+}
+
+.facebook {
+	background-color: #2B497B;
+	border-color: #2B497B;
+}
+
+.google {
+	background-color: #DA4B3E;
+	border-color: #DA4B3E;
 }
 
 #key_name {
